@@ -5,6 +5,7 @@ A simple React-based weather app that allows users to search for weather informa
 ## Features
 
 - Search for weather data by entering a city name.
+- Disable the Search button by default when the input field is empty to prevent empty searches.
 - Display weather details such as temperature and description.
 - Different background images based on weather conditions.
 - Error handling for failed API requests.
