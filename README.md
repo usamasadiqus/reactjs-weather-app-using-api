@@ -37,7 +37,7 @@ yarn install or npm install
 
 5. Open your browser and navigate to `http://localhost:3000` to use the app.
 
-## Screenshots
+## Screenshot
 
 ![Weather App Screenshot](screenshots/screenshot.png "Weather App Screenshot")
 
