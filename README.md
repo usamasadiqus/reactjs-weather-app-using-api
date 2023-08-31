@@ -23,20 +23,14 @@ A simple React-based weather app that allows users to search for weather informa
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+git clone https://github.com/usamasadiqus/reactjs-weather-app-using-api.git
+cd reactjs-weather-app-using-api
 
 2. Install dependencies:
 
-yarn install
+yarn install or npm install
 
 3. Rename `.env.example` to `.env` and add your OpenWeatherMap API & API key.
-
-4. Start the development server:
-
-npm start or yarn start
-
-3. Rename `.env.example` to `.env` and add your OpenWeatherMap API key.
 
 4. Start the development server:
 
@@ -44,18 +38,13 @@ npm start or yarn start
 
 ## Screenshots
 
-![Weather App Screenshot](/screenshots/screenshot.png)
-
-## Credits
-
-- Weather icons provided by OpenWeatherMap.
-- Loader icon by Freepik from Flaticon.
+![Weather App Screenshot](screenshots/screenshot.png "Weather App Screenshot")
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-=======================================================================================================
+====================================================================
 
 # Getting Started with Create React App
 
