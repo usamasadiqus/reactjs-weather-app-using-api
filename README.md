@@ -24,6 +24,7 @@ A simple React-based weather app that allows users to search for weather informa
 1. Clone the repository:
 
 git clone https://github.com/usamasadiqus/reactjs-weather-app-using-api.git
+
 cd reactjs-weather-app-using-api
 
 2. Install dependencies:
