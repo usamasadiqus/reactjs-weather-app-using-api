@@ -1,3 +1,62 @@
+# Weather App
+
+A simple React-based weather app that allows users to search for weather information by city name.
+
+## Features
+
+- Search for weather data by entering a city name.
+- Display weather details such as temperature and description.
+- Different background images based on weather conditions.
+- Error handling for failed API requests.
+- Prevent duplicate city entries.
+- Responsive design for various screen sizes.
+- Loading spinner while fetching weather data.
+- Ability to close error messages.
+
+## Technologies Used
+
+- React
+- CSS (Styled with Tailwind CSS)
+- OpenWeatherMap API
+
+## Installation
+
+1. Clone the repository:
+
+git clone https://github.com/your-username/weather-app.git
+cd weather-app
+
+2. Install dependencies:
+
+yarn install
+
+3. Rename `.env.example` to `.env` and add your OpenWeatherMap API & API key.
+
+4. Start the development server:
+
+npm start or yarn start
+
+3. Rename `.env.example` to `.env` and add your OpenWeatherMap API key.
+
+4. Start the development server:
+
+5. Open your browser and navigate to `http://localhost:3000` to use the app.
+
+## Screenshots
+
+![Weather App Screenshot](/screenshots/screenshot.png)
+
+## Credits
+
+- Weather icons provided by OpenWeatherMap.
+- Loader icon by Freepik from Flaticon.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+=======================================================================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
